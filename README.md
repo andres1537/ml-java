@@ -1,0 +1,2 @@
+# ml-java
+This project is a machine learning library that contains some evaluation metrics, such as: pF1, K metric. Likewise, this library has some distance measures, such as: coseno, TF-IDF, Jaccard, and Hamming. Additionally, this library has a LSH (Locality Sensitive Hashing) implementation, and some basic operations related to LDA (Latent Dirichlet Allocation).

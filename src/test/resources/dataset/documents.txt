@@ -1,0 +1,21 @@
+id;title;content;topic
+14545;Ink helps drive democracy in Asia;The Kyrgyz Republic, a small, mountainous state of the former Soviet republic, is using invisible ink and ultraviolet readers in the country's elections as part of a drive to prevent multiple voting.;tech
+26764;China net cafe culture crackdown;Chinese authorities closed 12,575 net cafes in the closing months of 2004, the country's government said.;tech
+37676;Microsoft seeking spyware trojan;Microsoft is investigating a trojan program that attempts to switch off the firm's anti-spyware software.;tech
+4667j;Digital guru floats sub-$100 PC;Nicholas Negroponte, chairman and founder of MIT's Media Labs, says he is developing a laptop PC that will go on sale for less than $100 (£53).;tech
+5hjy7;Technology gets the creative bug;The hi-tech and the arts worlds have for some time danced around each other and offered creative and technical help when required.;tech
+6jhhg;Wi-fi web reaches farmers in Peru;A network of community computer centres, linked by wireless technology, is providing a helping hand for poor farmers in Peru.;tech
+7nhgt;Microsoft releases bumper patches;Microsoft has warned PC users to update their systems with the latest security fixes for flaws in Windows programs.;tech
+876uy;Virus poses as Christmas e-mail;Security firms are warning about a Windows virus disguising itself as an electronic Christmas card.;tech
+978yj;Apple laptop is 'greatest gadget';The Apple Powerbook 100 has been chosen as the greatest gadget of all time, by US magazine Mobile PC.;tech
+10jyj;Google's toolbar sparks concern;Search engine firm Google has released a trial tool which is concerning some net users because it directs people to pre-selected commercial websites.;tech
+11sds;Labour plans maternity pay rise;Maternity pay for new mothers is to rise by £1,400 as part of new proposals announced by the Trade and Industry Secretary Patricia Hewitt.;politics
+12aaa;Watchdog probes e-mail deletions;The information commissioner says he is urgently asking for details of Cabinet Office orders telling staff to delete e-mails more than three months old.;politics
+13ngf;Hewitt decries 'career sexism';Plans to extend paid maternity leave beyond six months should be prominent in Labour's election manifesto, the Trade and Industry Secretary has said.;politics
+14ppp;Labour chooses Manchester;The Labour Party will hold its 2006 autumn conference in Manchester and not Blackpool, it has been confirmed.;politics
+15wew;Brown ally rejects Budget spree;Chancellor Gordon Brown's closest ally has denied suggestions there will be a Budget giveaway on 16 March.;politics
+1634r;'Errors' doomed first Dome sale;The initial attempt to sell the Millennium Dome failed due to a catalogue of errors, a report by the government's finance watchdog says.;politics
+17ref;Fox attacks Blair's Tory 'lies';Tony Blair lied when he took the UK to war so has no qualms about lying in the election campaign, say the Tories.;politics
+18grr;Women MPs reveal sexist taunts;Women MPs endure "shocking" levels of sexist abuse at the hands of their male counterparts, a new study shows.;politics
+19rte;Campbell: E-mail row 'silly fuss';Ex-No 10 media chief Alastair Campbell is at the centre of a new political row over an e-mail containing a four-letter outburst aimed at BBC journalists.;politics
+20grr;Crucial decision on super-casinos;A decision on whether to allow Westminster to legislate on super-casinos is set to be made by the Scottish Parliament.;politics
