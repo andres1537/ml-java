@@ -10,8 +10,8 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-import com.cgomez.ml.distance.DistanceComparator;
-import com.cgomez.ml.distance.IDistanceMeasure;
+import com.cgomez.ml.measure.distance.DistanceComparator;
+import com.cgomez.ml.measure.distance.IDistanceMeasure;
 import com.cgomez.search.lsh.factories.AbstractLocalityFactory;
 
 /**

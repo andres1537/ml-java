@@ -7,7 +7,8 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import com.cgomez.ml.distance.impl.LevenshteinDistance;
+import com.cgomez.ml.measure.distance.impl.LevenshteinDistance;
+
 
 /**
  * The Class LevenshteinDistanceTest.

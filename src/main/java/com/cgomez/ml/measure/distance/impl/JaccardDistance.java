@@ -1,11 +1,12 @@
 /*
  * Copyright (c) 2015 cgomez. All rights reserved.
  */
-package com.cgomez.ml.distance.impl;
+package com.cgomez.ml.measure.distance.impl;
 
 import java.util.List;
 
-import com.cgomez.ml.distance.IDistanceMeasure;
+import com.cgomez.ml.measure.distance.IDistanceMeasure;
+
 
 /**
  * The Class JaccardDistance.

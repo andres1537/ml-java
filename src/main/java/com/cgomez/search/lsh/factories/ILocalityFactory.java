@@ -3,7 +3,7 @@
  */
 package com.cgomez.search.lsh.factories;
 
-import com.cgomez.ml.distance.IDistanceMeasure;
+import com.cgomez.ml.measure.distance.IDistanceMeasure;
 import com.cgomez.search.lsh.hash.IHashFunction;
 
 /**

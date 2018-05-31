@@ -10,7 +10,8 @@ import java.util.Map;
 
 import org.junit.Test;
 
-import com.cgomez.ml.distance.impl.CosineDistance;
+import com.cgomez.ml.measure.distance.impl.CosineDistance;
+
 
 /**
  * The Class CosineDistanceTest.

@@ -3,8 +3,8 @@
  */
 package com.cgomez.search.lsh.factories.impl;
 
-import com.cgomez.ml.distance.IDistanceMeasure;
-import com.cgomez.ml.distance.impl.HammingDistance;
+import com.cgomez.ml.measure.distance.IDistanceMeasure;
+import com.cgomez.ml.measure.distance.impl.HammingDistance;
 import com.cgomez.search.lsh.factories.AbstractLocalityFactory;
 import com.cgomez.search.lsh.hash.IHashFunction;
 import com.cgomez.search.lsh.hash.impl.ShingleHash;

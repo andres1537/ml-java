@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2015 cgomez. All rights reserved.
  */
-package com.cgomez.ml.distance.impl;
+package com.cgomez.ml.measure.distance.impl;
 
 import java.util.HashMap;
 import java.util.List;
@@ -9,7 +9,8 @@ import java.util.Map;
 
 import org.apache.commons.math3.stat.StatUtils;
 
-import com.cgomez.ml.distance.IDistanceMeasure;
+import com.cgomez.ml.measure.TFIDF;
+import com.cgomez.ml.measure.distance.IDistanceMeasure;
 import com.cgomez.util.StringUtils;
 import com.cgomez.util.constant.Constant;
 

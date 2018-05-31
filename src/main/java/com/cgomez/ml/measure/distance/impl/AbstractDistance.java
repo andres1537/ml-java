@@ -1,12 +1,13 @@
 /*
  * Copyright (c) 2016 cgomez. All rights reserved.
  */
-package com.cgomez.ml.distance.impl;
+package com.cgomez.ml.measure.distance.impl;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
+import com.cgomez.ml.measure.TFIDF;
 import com.cgomez.util.StringUtils;
 import com.cgomez.util.constant.Constant;
 

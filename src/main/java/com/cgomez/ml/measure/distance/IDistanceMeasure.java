@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2015 cgomez. All rights reserved.
  */
-package com.cgomez.ml.distance;
+package com.cgomez.ml.measure.distance;
 
 import java.io.Serializable;
 

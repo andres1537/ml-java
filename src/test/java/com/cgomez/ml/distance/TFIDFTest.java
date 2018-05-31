@@ -10,7 +10,8 @@ import java.util.Map;
 
 import org.junit.Test;
 
-import com.cgomez.ml.distance.impl.TFIDF;
+import com.cgomez.ml.measure.TFIDF;
+
 
 /**
  * The Class TFIDFTest.

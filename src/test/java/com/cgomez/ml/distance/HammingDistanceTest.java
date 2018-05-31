@@ -7,7 +7,8 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import com.cgomez.ml.distance.impl.HammingDistance;
+import com.cgomez.ml.measure.distance.impl.HammingDistance;
+
 
 /**
  * The Class HammingDistanceTest.

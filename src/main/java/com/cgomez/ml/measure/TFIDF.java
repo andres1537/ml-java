@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2016 cgomez. All rights reserved.
  */
-package com.cgomez.ml.distance.impl;
+package com.cgomez.ml.measure;
 
 import java.util.Collection;
 import java.util.HashMap;
